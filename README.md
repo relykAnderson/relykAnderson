@@ -56,7 +56,7 @@ I contribute to AI improvement work under NDA (DataAnnotations). Typical respons
 
 **Platforms/Domains:** WordPress (themes/plugins), REST APIs, data analysis, automations, Linux hosting (Nginx/Apache, MySQL), Unreal Engine (Blueprints/C++)
 
-**Ops & Workflow:** Git, CI basics, staging→prod flows, monitoring/backups, documentation
+**Ops & Workflow:** Git, staging→prod flows, monitoring/backups, documentation
 
 ---
 
