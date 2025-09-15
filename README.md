@@ -4,7 +4,7 @@ Springfield, VT • [redshirtredshoes@gmail.com](mailto:redshirtredshoes@gmail.c
 
 **Software Engineer • AI Training/Evaluation • WordPress/Automations • Unreal/React Game Prototyping**
 
-I’m a former agency co‑owner/lead developer (Indelible, 2013–2024) now focused on **AI training/evaluation** work (NDA) and hands‑on engineering—shipping small tools, automations, and games. I like crisp specs, measurable outcomes, and leaving behind docs that make the next person faster.
+I’m a former agency co‑owner/lead developer (Indelible, 2013–2024) now focused on **AI training/evaluation** work (NDA) and hands‑on engineering—shipping small tools, automations, and games. I like crisp specs, measurable outcomes, and leaving behind docs that make the next person faster. I appologize that my public facing git hub is so lacking in commits but because of the nature of my work most of what i do is either private and or done using other systems.
 
 ---
 
