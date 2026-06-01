@@ -43,7 +43,7 @@ Entire game is played through the view of a computer screen
 
 ---
 
-## Released Games
+## 🎮 Released Games
 
 * **Gravenfall: Veil of Darkness** (solo dev) (RPG Maker)
   * **Style:** Pixel art - top down RPG
