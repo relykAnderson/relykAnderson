@@ -18,7 +18,6 @@ An end-to-end game builder that generates objects to place in your world, create
 * **Sprite Editor:** The sprite editor allows you to edit individual images or sprites.
 * **Character Editor:** The character editor takes a full 3d model rigged to an exported skeleton that then converts that into a frame by frame editor of the 3d model that can be exported as a sprite sheet with 8 default animations and user added animations.
 * **Character Sprite Editor:** Allows the user to cleanup any artifacts from the export from 3d to sprite sheet.
-
 * **Status:** In development 
 
 ### 2) **Blackline** - a PC game where you play as a hacker
