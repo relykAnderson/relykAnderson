@@ -10,35 +10,54 @@ I’m a former agency co‑owner/lead developer (Indelible, 2013–2024) now foc
 
 ## 🔭 What I’m working on
 
-### 1) Blog & Social Automation (Python • cron • APIs • AI • Affiliate)
+### 1) Isometric game builder
 
-An end‑to‑end automation that drafts, schedules, and posts cross‑platform content while tracking affiliates.
+An end-to-end game builder that generates objects to place in your world, creates functional characters in 8 directions, and allows custom code development.
 
-* **Sources:** Currently personally managed will be switching to an AI driven automated system soon
-* **AI:** summarization, title/slug generation, tone variants
-* **Affiliate:** UTM builder + link management (Amazon SiteStripe text links; PA‑API when eligible)(in-development)
-* **Scheduler:** `cron` + retry/approval queue | Task scheduler if used on Windows OS
-* **Publishers:** WordPress REST, Facebook/Page API, Pinterest/Twitter/X (projectized connectors)
-* **Ops:** per‑post JSON audit log
+* **AI:** Uses local AI models to build objects to place in the world as static images or sprites
+* **Sprite Editor:** The sprite editor allow you to edit individual images or sprites.
+* **Character Editor:** The character editor takes a full 3d model rigged to an exported skeleton that then converts that into a frame by frame editor of the 3d model that can be exported as a sprite sheet with 8 default animations and user added animations.
+* **Character Sprite Editor:** Allows the user to cleanup any artifacts from the export from 3d to sprite sheet.
 
-### 2) **Elementum** — a web voxel game (React)
+* **Status:** In development 
 
-A lightweight, browser‑playable voxel sandbox inspired by Minecraft:
+### 2) **Blackline** - a PC game where you play as a hacker
 
-* **World:** looping/infinite feel (wraparound chunks)
-* **Systems:** crafting, mining, building, simple combat
-* **Tech:** React + custom renderer (Canvas/WebGL), input/mode state machines
-* **Save:** local state snapshots; dev tools overlay
+Entire game is played through the view of a computer screen
 
-**Status:** actively prototyping. *(Repo/demo link coming—ping me if you want a preview.)*
+* **Stack:** Typescript, React, Vite, Electron
+* **Plot:** A conspiracy is uncovered by the player while learning to hack and they have to investigate by hacking systems, gaining allies, and researching.
+* **Gameplay:** You have a basic desktop environment where you interact with different apps:
+  * check email (canned and local AI responses)
+  * chat with people you meet in the game (local AI)
+  * browse the web (limited local controlled environment locking in the world structure)
+  * play games you can download from the browser
+  * play music you can find from hacking or download from sites
+  * check your bank account and pay bills
+  * take on jobs from a dark web site
+  * download a scripting language to write your own code to use in hacking.
+* **Status:** In development
 
 ### 3) Game Development - Unreal Projects (Blueprints/C++)
 
-* Shipped: **1 pixel‑art game** (solo) (non Unreal Engine)
-* In dev: **open‑world prototype** & **VR wave‑progression** game
+* In dev: **open‑world pirate survial prototype** & **VR wave‑progression** game
 
 ---
 
+## Released Games
+
+* **Gravenfall: Veil of Darkness** (solo dev) (RPG Maker)
+  * **Style:** Pixel art - top down RPG
+  * **Story:** You enter a village that was hit with a curse. You have to find the one responseible and defeat them to lift the curse and save the town.
+  * **Status:** Released
+  * **Link:** [Epic Games](https://store.epicgames.com/p/gravenfall-veil-of-darkness-0a4814)
+* **Silver Wing:** (solo dev) (Godot)
+  * **Style:** Pixel art - top down scroller
+  * **Story:** You play as a spaceship that is trying to find the enemy homeworld. You navigate and search through the stars of the Ursa Major constellation. Fight aliens, upgrade your ship, dodge asteroids, and survive.
+  * **Status:** Coming Soon
+ 
+---
+  
 ## 🧠 AI Training/Evaluation (NDA)
 
 I contribute to AI improvement work under NDA (DataAnnotations). Typical responsibilities:
@@ -76,8 +95,6 @@ Volleyball • Horseback riding • 3D printing • Building small apps/games
 ## 📬 Contact
 
 * Email: **[redshirtredshoes@gmail.com](mailto:redshirtredshoes@gmail.com)**
-* Location: **Springfield, VT**
+* Location: **Vermont**
 
-> If you pin repositories, I recommend pinning: `blog-social-automation`, `elementum`, `wp-automation-scripts`, and a public **AI evaluation rubric** repo/gist.
-
-*Last updated: Sept 2025*
+*Last updated: June 2026*
